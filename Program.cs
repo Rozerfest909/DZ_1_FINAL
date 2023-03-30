@@ -11,21 +11,10 @@ int ReadInt(string message)
 }
 
 int num = ReadInt("Введите число ");
+var num2 = 2;
 
-if (num % 2 == 1)
-{
-     num = num - 1;
-     while (num != 0)
+while (num >= num2)
      {
-        Console.WriteLine($"Четное число {num} ");
-        num = num - 2;
+        Console.WriteLine($"Четное число {num2} ");
+        num2 = num2 + 2;
      }
-}
-else
-{
-     while (num != 0)
-     {
-        Console.WriteLine($"Четное число {num} ");
-        num = num - 2;
-     }
-}
