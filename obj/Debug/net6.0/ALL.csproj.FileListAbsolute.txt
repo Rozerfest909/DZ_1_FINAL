@@ -1,0 +1,15 @@
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\bin\Debug\net6.0\ALL.exe
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\bin\Debug\net6.0\ALL.deps.json
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\bin\Debug\net6.0\ALL.runtimeconfig.json
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\bin\Debug\net6.0\ALL.dll
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\bin\Debug\net6.0\ALL.pdb
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.csproj.AssemblyReference.cache
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.AssemblyInfoInputs.cache
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.AssemblyInfo.cs
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.csproj.CoreCompileInputs.cache
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.dll
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\refint\ALL.dll
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.pdb
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ALL.genruntimeconfig.cache
+C:\Users\Vinil_Ryzen\Desktop\GB\C#\DZ_C#_1\ALL\obj\Debug\net6.0\ref\ALL.dll
