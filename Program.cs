@@ -1,8 +1,8 @@
-﻿// Задача 1: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+﻿// Задача 2: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-// a = 5; b = 7 -> max = 7
-// a = 2 b = 10 -> max = 10
-// a = -9 b = -3 -> max = -3
+// 2, 3, 7 -> 7
+// 44 5 78 -> 78
+// 22 3 9 -> 22
 
 int ReadInt(string message) 
 {
@@ -13,12 +13,31 @@ int ReadInt(string message)
 
 int num = ReadInt("Введите первое число ");
 int num2 = ReadInt("Введите второе число ");
+int num3 = ReadInt("Введите третье число ");
 
-if(num > num2)
+if (num > num2)
 {
-     Console.WriteLine($"Первое число {num} больше второго {num2}");git push -u origin main
+    if (num > num3)
+    {
+         Console.WriteLine($"Первое число {num} самое большое");
+    }
+    else
+    {
+         Console.WriteLine($"Третье число {num3} самое большое");
+    }
+}
+else if (num3 > num2)
+{
+    if (num3 > num)
+    {
+         Console.WriteLine($"Третье число {num3} самое большое");
+    }
+    else
+    {
+         Console.WriteLine($"Первое число {num} самое большое");
+    }
 }
 else
 {
-    Console.WriteLine($"Второе число {num2} больше первого {num}");
+     Console.WriteLine($"Второе число {num2} самое большое");
 }
