@@ -16,7 +16,7 @@ int num2 = ReadInt("Введите второе число ");
 
 if(num > num2)
 {
-     Console.WriteLine($"Первое число {num} больше второго {num2}");git push -u origin main
+     Console.WriteLine($"Первое число {num} больше второго {num2}");
 }
 else
 {
